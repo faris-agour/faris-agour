@@ -11,9 +11,9 @@ I'm a Computer Engineering and Control Systems student at Mansoura University, p
 ## Pinned Projects
 
 [![Job Board](https://github-readme-stats.vercel.app/api/pin/?username=f-agour&repo=django-job-board)](https://github.com/fares-agour/django-job-board)
-[![Social Media](https://github-readme-stats.vercel.app/api/pin/?username=f-agour&repo=Django-Social-Media)](https://github.com/fares-agour/Django-Social-Media)
-[![House Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=f-agour&repo=house-price-prediction)](https://github.com/fares-agour/house-price-prediction)
 [![FastX Game](https://github-readme-stats.vercel.app/api/pin/?username=f-agour&repo=fastX-game)](https://github.com/fares-agour/fastX-game)
+[![House Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=f-agour&repo=house-price-prediction)](https://github.com/fares-agour/house-price-prediction)
+[![Social Media](https://github-readme-stats.vercel.app/api/pin/?username=f-agour&repo=Django-Social-Media)](https://github.com/fares-agour/Django-Social-Media)
 
 ## Education
 
