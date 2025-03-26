@@ -11,7 +11,7 @@ I'm a Computer Engineering and Control Systems student at Mansoura University, p
 ## Pinned Projects
 [![Store Sales Time Series Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=faris-agour&repo=Store-Sales-Time-Series-Forecasting)](https://github.com/faris-agour/Store-Sales-Time-Series-Forecasting)  
 [![Predicting Customer Purchase](https://github-readme-stats.vercel.app/api/pin/?username=faris-agour&repo=Predicting-Customer-Purchase)](https://github.com/faris-agour/Predicting-Customer-Purchase)  
-[![House Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=faris-agour&repo=house-price-prediction)](https://github.com/faris-agour/house-price-
+[![House Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=faris-agour&repo=house-price-prediction)](https://github.com/faris-agour/house-price-prediction)
 [![Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=faris-agour&repo=Machine-Learning)](https://github.com/faris-agour/Machine-Learning)  
 
 
