@@ -12,8 +12,9 @@ I'm a Computer Engineering and Control Systems student at Mansoura University, p
 [![Real-Time Object Detection](https://github-readme-stats.vercel.app/api/pin/?username=faris-agour&repo=Real-Time-Object-Detection-for-Autonomous-Vehicles)](https://github.com/faris-agour/Real-Time-Object-Detection-for-Autonomous-Vehicles) 
 [![Store Sales Time Series Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=faris-agour&repo=Store-Sales-Time-Series-Forecasting)](https://github.com/faris-agour/Store-Sales-Time-Series-Forecasting)
 
-[![CNN FashionMNIST](https://github-readme-stats.vercel.app/api/pin/?username=faris-agour&repo=CNN-FashionMNIST)](https://github.com/faris-agour/CNN-FashionMNIST)  
+[![CNN FashionMNIST](https://github-readme-stats.vercel.app/api/pin/?username=faris-agour&repo=CNN-FashionMNIST)](https://github.com/faris-agour/CNN-FashionMNIST) 
 [![HR Employee Attrition](https://github-readme-stats.vercel.app/api/pin/?username=faris-agour&repo=HR-Employee-Attrition)](https://github.com/faris-agour/HR-Employee-Attrition)
+
 
 
 ## Education
