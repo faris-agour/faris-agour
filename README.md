@@ -1,6 +1,6 @@
 # Hi, I'm Faris Abouagour
 
-I'm a Computer Engineering and Control Systems student at Mansoura University, passionate about Machine Learning, and Software Engineering. I enjoy working on projects that challenge my problem-solving skills and allow me to apply my knowledge in practical ways.
+I'm a Computer Engineering and Control Systems student at Mansoura University. I'm very interested in Machine Learning, Deep Learning, and Computer Vision. I enjoy building projects that improve my skills and help me turn what I learn into real-world solutions. I love solving problems and always look for new challenges in AI and software development.
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faris-agour&show_icons=true&count_private=true&hide=contribs,prs)
