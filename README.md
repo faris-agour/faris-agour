@@ -13,7 +13,7 @@
 - 🎓 **B.Eng. Computer Engineering & Control Systems**, Mansoura University (Jul 2026)  
 - 💼 **AI Engineer @ Samsung | SIC**  
 - 🏆 3rd Place — **IEEE Victoris 4.0 (2025)** for *Knowva*, an AI Quiz & Feedback platform  
-- 🚀 Passionate about **Deep Learning**, **Computer Vision**, and **LLM Applications**  
+- 🚀 Passionate about **Deep Learning**, **Computer Graphics**, **Computer Vision**, and **LLM Applications**  
 - ☁️ Experienced with **Azure ML**, **TensorRT**, and **MLOps Monitoring (Power BI + MLflow)**  
 
 ---
