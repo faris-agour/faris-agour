@@ -13,7 +13,7 @@
 
 - 🎓 **B.Eng. Computer Engineering & Control Systems**, Mansoura University (Jul 2026)  
 - 💼 **AI Engineer Intern @ Samsung SIC**  
-- 🏆 3rd Place — **IEEE Victoris 4.0 (2025)** for *Knowva*, an AI Quiz & Feedback platform  
+- 🏆 3rd Place - **IEEE Victoris 4.0 (2025)** for *Knowva*, an AI Quiz & Feedback platform  
 - 🎨 Exploring **Computer Graphics & Scientific Visualization** with focus on **FURY (Python 3D Visualization Library)**  
 - 🚀 Passionate about **Deep Learning, Computer Vision, 3D Rendering, and AI-powered Interactive Systems**  
 - ☁️ Experienced with **Azure ML, TensorRT, and MLOps (MLflow + Monitoring Systems)**  
